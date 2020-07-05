@@ -1,0 +1,9 @@
+.input{
+    width: 800px;
+    height: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
