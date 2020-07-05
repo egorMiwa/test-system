@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styles from './index.module.css';
 import Test from '../../components/Test/index';
 
 function TestList({tests}) {
-    // console.log(tests)
     return (
         <div className={styles.container}>
             {tests.map((test) => {

@@ -1,4 +1,5 @@
 .button{
-    position: absolute;
-    right: 90%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
 }
